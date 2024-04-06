@@ -1,0 +1,25 @@
+.text-style{
+    margin:9px!important
+}
+.quantity-group{
+    display: flex;
+    align-items: center;
+  
+}
+.shopping-cart-header
+{
+    justify-content :flex-start;
+    
+}
+
+.card-body{
+    margin-top: 22px;
+    padding-bottom: 20px!important;
+}
+.cart-image{
+    width: 80%!important;
+    align-self: center;
+}
+a{
+    text-decoration: none!important;
+}

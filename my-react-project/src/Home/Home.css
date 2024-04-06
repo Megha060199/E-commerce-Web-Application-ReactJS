@@ -1,0 +1,43 @@
+
+
+.select-form{
+    width: auto!important;
+    font-size: 12px!important;
+    background-size: 9px 9px!important;
+    padding: 0.01rem 0rem 0px  0.3rem!important;
+    background-position: right 0.2rem center!important
+    ;
+}
+.form-select:focus{
+  
+        outline:none!important;
+        box-shadow: none!important;
+        border-color: transparent!important;
+        background-clip: none!important;
+        transition: none!important;
+        /* border: 0px none !important; */
+
+}
+.badge{
+    vertical-align: top!important;
+    background-color: red!important;
+    border-radius: 50%!important;
+    position: absolute;
+    left:38px;
+    --bs-badge-font-size: 0.68em!important;
+    top:-4px
+    
+}
+.position{
+    position: relative;
+    display: inline-block;
+}
+.margin{
+    margin-right: 30px;
+}
+.input-group-text{
+    display: flex!important;
+    align-items: center!important;
+    text-align: center;
+    justify-content: center!important;
+}

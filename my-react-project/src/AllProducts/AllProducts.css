@@ -1,0 +1,28 @@
+.fit-image {
+    width: 100%;
+    height: 100%; 
+    object-fit: contain;
+  }
+ 
+  .image-body{
+    height: 200px;
+    width: auto;
+  }
+
+  .row-spacing{
+    margin-bottom: 10px;
+  }
+  .color-white{
+    color: white!important;
+  }
+  .align-content{
+    align-items: center;
+    align-content: center;
+  }
+.cart-button{
+    align-items: baseline;
+   
+}
+.card{
+    display: block!important;
+}
